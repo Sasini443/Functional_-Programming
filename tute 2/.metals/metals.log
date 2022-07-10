@@ -1,0 +1,579 @@
+2022.07.10 12:42:57 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at e:\year 2 first sem\functional programming\tute 2\.metals\lsp.trace.json or C:\Users\Asus VivoBook\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.10 12:42:58 INFO  logging to file E:\year 2 first sem\functional programming\tute 2\.metals\metals.log
+2022.07.10 12:42:58 INFO  Started: Metals version 0.11.7 in workspace 'E:\year 2 first sem\functional programming\tute 2' for client Visual Studio Code 1.69.0.
+2022.07.10 12:42:58 INFO  time: initialize in 0.61s
+2022.07.10 12:42:58 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.10 12:42:58 WARN  Build server is not auto-connectable.
+2022.07.10 12:42:58 WARN  no build tool detected in workspace 'E:\year 2 first sem\functional programming\tute 2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.10 12:43:00 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:43:03 INFO  no build target found for E:\year 2 first sem\functional programming\tute 2\1.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.10 12:43:04 INFO  time: code lens generation in 4.18s
+2022.07.10 12:44:40 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:44:42 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:44:47 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:44:50 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:44:51 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:44:54 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:45:02 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:45:07 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:45:09 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:45:14 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:45:18 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:45:21 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:45:31 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:45:34 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:45:45 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:45:47 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:45:53 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:45:56 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:46:14 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:46:18 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:46:33 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:46:35 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:46:43 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:46:45 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:46:53 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:47:02 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:47:05 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:47:08 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:47:19 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:47:23 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:47:32 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:47:34 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:47:35 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:47:41 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:47:42 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:47:46 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:47:56 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:47:57 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:47:58 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:48:01 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:48:03 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:48:05 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:48:07 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:48:09 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:48:18 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+Jul 10, 2022 12:48:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 664
+2022.07.10 12:48:20 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:48:22 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:48:28 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:01 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:04 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:10 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:16 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:17 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:20 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:21 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:25 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:27 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:29 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:31 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:40 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:43 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:46 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:50 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:53 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:57 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:50:59 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:01 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:03 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:06 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:12 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:14 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:16 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:21 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:22 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:25 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:28 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:29 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:33 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:36 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:38 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:40 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:42 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:44 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:48 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:50 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:53 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:51:55 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:52:02 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:56:07 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:56:53 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:56:56 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:56:59 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:57:01 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:57:16 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\1.scala
+2022.07.10 12:58:10 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:58:57 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:58:58 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:00 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:02 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:03 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:05 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:07 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:08 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:18 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:19 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:21 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:24 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:26 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:28 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:31 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:42 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 12:59:58 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:01 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:03 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:04 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:07 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:10 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:13 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:15 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:17 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:20 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:25 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:28 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:30 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:32 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:37 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:41 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:48 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:55 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:56 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:57 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:00:59 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:01:04 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:01:08 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:01:09 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:01:11 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:01:12 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:01:14 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:01:16 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:01:17 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:01:20 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:01:31 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:01:33 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:01:46 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:01:59 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:02:01 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:02:05 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:13:36 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:13:38 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:13:39 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:13:41 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:13:48 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:14:01 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:14:02 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:14:28 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:14:43 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:14:46 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:15:14 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:15:19 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:15:21 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:15:28 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:15:32 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:15:36 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:15:40 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:15:44 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:15:55 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:16:00 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:16:06 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:16:25 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:16:46 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:16:50 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:16:53 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:18:23 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:18:24 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:18:48 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:19:21 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:19:24 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+Jul 10, 2022 1:19:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: file:///E:/year%202%20first%20sem/functional%20programming/tute%202/2.scala:11: error: illegal character '\u2013'
+    println (–2 * ( g – k ) +c);
+             ^
+java.util.concurrent.CompletionException: file:///E:/year%202%20first%20sem/functional%20programming/tute%202/2.scala:11: error: illegal character '\u2013'
+    println (–2 * ( g – k ) +c);
+             ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2158)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+Caused by: file:///E:/year%202%20first%20sem/functional%20programming/tute%202/2.scala:11: error: illegal character '\u2013'
+    println (–2 * ( g – k ) +c);
+             ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchOther$1(LegacyScanner.scala:501)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:506)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:245)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptBalancedDelimeters(ScalaToplevelMtags.scala:274)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:50)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:19)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:40)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:96)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:269)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:202)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:202)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:197)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:33)
+	at scala.collection.immutable.List.map(List.scala:246)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:29)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1480)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2022.07.10 13:19:33 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:19:34 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+Jul 10, 2022 1:19:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: file:///E:/year%202%20first%20sem/functional%20programming/tute%202/2.scala:11: error: illegal character '\u2013'
+    println (-2 * ( g – k ) +c);
+                      ^
+java.util.concurrent.CompletionException: file:///E:/year%202%20first%20sem/functional%20programming/tute%202/2.scala:11: error: illegal character '\u2013'
+    println (-2 * ( g – k ) +c);
+                      ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2158)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+Caused by: file:///E:/year%202%20first%20sem/functional%20programming/tute%202/2.scala:11: error: illegal character '\u2013'
+    println (-2 * ( g – k ) +c);
+                      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchOther$1(LegacyScanner.scala:501)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:506)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:245)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptBalancedDelimeters(ScalaToplevelMtags.scala:274)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:50)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:19)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:40)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:96)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:269)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:202)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:202)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:197)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:33)
+	at scala.collection.immutable.List.map(List.scala:246)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:29)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1480)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2022.07.10 13:19:38 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:19:41 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:19:42 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+Jul 10, 2022 1:23:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2007
+2022.07.10 13:23:19 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:23:22 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:23:29 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:23:53 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:23:55 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:23:58 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:24:09 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:24:26 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:24:36 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:25:00 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:25:01 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:25:04 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:25:12 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:25:13 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:25:25 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:34:33 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:34:34 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:34:37 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:34:38 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:34:40 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:34:44 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:34:56 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:35:20 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:35:29 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:35:58 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:35:59 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:36:00 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:36:08 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:36:10 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:36:15 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:36:20 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+Jul 10, 2022 1:36:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.07.10 13:36:25 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:36:27 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:36:35 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:36:36 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:36:41 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:36:44 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:36:47 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:36:50 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:36:51 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:36:53 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 13:37:27 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+Jul 10, 2022 1:46:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Toplevel definition main is defined in
+  E:\year 2 first sem\functional programming\tute 2\1.scala
+and also in
+  E:\year 2 first sem\functional programming\tute 2\2.scala
+One of these files should be removed from the classpath.
+dotty.tools.dotc.core.TypeError: Toplevel definition main is defined in
+  E:\year 2 first sem\functional programming\tute 2\1.scala
+and also in
+  E:\year 2 first sem\functional programming\tute 2\2.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2431)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$5(SymDenotations.scala:2395)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2451)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2010)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2061)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:808)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:876)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1017)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:922)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:922)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1017)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:133)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:188)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:83)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:71)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:82)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:71)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:82)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:71)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:82)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:71)
+	at scala.meta.internal.pc.completions.CompletionsProvider.completions(CompletionsProvider.scala:56)
+
+2022.07.10 13:46:09 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:12 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:14 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:17 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:20 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:21 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:23 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:25 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:27 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:30 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:34 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:37 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:38 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:41 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:42 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:46:46 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:47:02 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:47:08 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:47:14 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:47:17 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:47:21 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:47:25 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:47:34 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:47:36 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:47:44 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:47:45 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:47:49 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:47:54 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:47:56 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:11 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:12 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:14 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:16 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:17 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:20 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:22 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:27 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:33 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:36 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:42 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:43 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:46 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:52 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:54 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:56 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:48:58 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:49:09 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:49:10 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:49:19 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:49:22 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:49:24 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:49:26 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:49:27 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:49:31 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:49:35 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:49:43 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:49:44 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:49:49 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:51:07 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+Jul 10, 2022 1:51:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3103
+2022.07.10 13:51:37 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:51:38 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:51:46 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:51:52 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:51:53 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:51:57 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:52:06 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:52:10 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:52:17 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:52:22 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:52:24 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:52:28 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:52:30 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:52:33 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:52:37 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:52:41 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:52:45 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:52:50 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:52:53 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:00 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:02 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:06 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:08 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:10 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:15 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:21 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:25 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:26 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:30 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:32 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:33 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:38 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:41 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:43 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:44 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:46 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:48 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:51 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:56 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:54:58 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 13:58:06 WARN  no build target for: C:\Users\Asus VivoBook\Downloads\Q4a.scala
+2022.07.10 14:00:52 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 14:00:59 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 14:01:02 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 14:01:04 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 14:01:05 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 14:01:41 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 14:02:09 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 14:02:14 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3(a).scala
+2022.07.10 14:03:26 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:03:36 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:04:05 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\3.scala
+2022.07.10 14:04:10 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\2.scala
+2022.07.10 14:14:46 WARN  no build target for: C:\Users\Asus VivoBook\Downloads\Q4a.scala
+2022.07.10 14:15:04 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:15:06 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:15:20 WARN  no build target for: C:\Users\Asus VivoBook\Downloads\Q4a.scala
+2022.07.10 14:15:53 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:15:54 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:15:58 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:15:59 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:16:03 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:16:06 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:16:08 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:16:11 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:16:12 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:16:55 WARN  no build target for: C:\Users\Asus VivoBook\Downloads\Q4a.scala
+2022.07.10 14:18:05 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:18:14 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:18:19 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:18:21 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(a).scala
+2022.07.10 14:39:34 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:39:37 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:39:48 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:39:57 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:40:01 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:40:19 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:40:22 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:40:49 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:40:56 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:41:02 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:41:20 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:41:22 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:43:04 WARN  no build target for: C:\Users\Asus VivoBook\Downloads\Q4b.scala
+Jul 10, 2022 2:43:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 9 is not a valid line number, allowed [0..8]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:66)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:65)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:65)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1652)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1651)
+	... 15 more
+
+2022.07.10 14:43:49 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:43:50 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+2022.07.10 14:43:52 WARN  no build target for: E:\year 2 first sem\functional programming\tute 2\4(b).scala
+Jul 10, 2022 2:47:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.07.10 14:48:00 INFO  shutting down Metals
