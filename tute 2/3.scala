@@ -4,7 +4,7 @@ def main(args: Array[String]) = {
     var c : Int = 4;
     var d : Int = 5;
     var k : Float = 4.3f;
-    var g : Int = 0;
+    var g  = 4.0f;
 
     printf("%d", (b-1) * a + c *(d-1));
     println();
